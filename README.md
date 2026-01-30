@@ -184,8 +184,6 @@ This clearly demonstrates accurate discrimination and ranking, a core ATS requir
 
 📸 Screenshots (MANDATORY)
 
-Add the following screenshots under /screenshots/:
-
 Home Page – Resume Upload Interface
 <img width="1366" height="768" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/b7ca6cbe-21a4-4b31-8c8f-10a2b85e6869" />
 
