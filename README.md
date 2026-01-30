@@ -191,17 +191,14 @@ Add the following screenshots under /screenshots/:
 Home Page – Resume Upload Interface
 <img width="1366" height="768" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/b7ca6cbe-21a4-4b31-8c8f-10a2b85e6869" />
 
-Candidate Ranking Dashboard (Multiple Resumes)
+Rank 1 – Strong Resume Output
 <img width="1366" height="768" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/91240b2d-a24e-45c2-98ab-835d93ff1fe6" />
 
-Rank 1 – Strong Resume Output
+Rank 2 – Medium Resume Output
 <img width="1366" height="768" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/159aed01-1afd-4bf9-a942-d245e32d3db8" />
 
-Rank 2 – Medium Resume Output
-<img width="1366" height="768" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/e51ddc7c-5066-433b-b58d-0fba840991e6" />
-
 Rank 3 – Weak Resume Output
-/screenshots/rank3_weak_resume.png
+<img width="1366" height="768" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/e51ddc7c-5066-433b-b58d-0fba840991e6" />
 
 🏆 Internship Context
 
