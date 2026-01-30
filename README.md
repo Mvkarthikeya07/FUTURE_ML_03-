@@ -234,7 +234,7 @@ Building end-to-end ML web applications
 ✔ Candidate ranking explicitly implemented
 ✔ Explainable ML system
 ✔ Internship-ready & evaluation-safe
-✔ Strong for portfolio, GitHub, and DAAD applications
+✔ Strong for portfolio, GitHub
 
 📜 License
 
