@@ -127,7 +127,7 @@ python app.py
 
 4️⃣ Open in Browser
 http://127.0.0.1:5000/
-
+```
 📂 Project Structure
 FUTURE_ML_03/
 │
@@ -151,7 +151,7 @@ FUTURE_ML_03/
 │
 ├── uploads/
 └── README.md
-
+```
 🧪 Testing & Ranking Demonstration
 
 To validate correctness, explainability, and ranking behavior, three controlled resumes were evaluated together:
