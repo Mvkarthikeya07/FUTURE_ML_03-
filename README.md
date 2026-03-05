@@ -1,4 +1,4 @@
-🧠 An Explainable NLP-Based Approach to Automated Resume Screening and Candidate Ranking
+ 🧠 An Explainable NLP-Based Approach to Automated Resume Screening and Candidate Ranking
 
 Machine Learning Internship – Task 3
 Organization: Future Interns
